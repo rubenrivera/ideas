@@ -39,11 +39,12 @@ Una vez que estés listo para agregar, discutir o colaborar con una idea:
 
 ### Etiquetas válidas
 
-* [`salud`](https://github.com/CodeandoMexico/ideas/labels/salud)
-* [`transparencia`](https://github.com/CodeandoMexico/ideas/labels/transparencia)
+* [`educación`](https://github.com/CodeandoMexico/ideas/labels/educación)
+* [`justicia`](https://github.com/CodeandoMexico/ideas/labels/justicia)
 * [`medio-ambiente`](https://github.com/CodeandoMexico/ideas/labels/medio%20ambiente)
 * [`movilidad`](https://github.com/CodeandoMexico/ideas/labels/movilidad)
-* [`justicia`](https://github.com/CodeandoMexico/ideas/labels/justicia)
+* [`transparencia`](https://github.com/CodeandoMexico/ideas/labels/transparencia)
+* [`salud`](https://github.com/CodeandoMexico/ideas/labels/salud)
 * [`comunidad`](https://github.com/CodeandoMexico/ideas/labels/comunidad): Ideas para mejorar a la comunidad de Codeando México.
 * [`meta`](https://github.com/CodeandoMexico/ideas/labels/meta): Ideas para mejorar esta guía, agregar nuevas etiquetas/sub-etiquetas o mejorar la forma en la que colaboramos en este repositorio.
 
